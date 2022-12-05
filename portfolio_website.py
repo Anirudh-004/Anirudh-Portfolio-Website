@@ -3,6 +3,7 @@ import json
 import streamlit as st
 import requests
 from streamlit_lottie import st_lottie
+from streamlit_lottie import st_lottie_spinner
 from PIL import Image
 
 
