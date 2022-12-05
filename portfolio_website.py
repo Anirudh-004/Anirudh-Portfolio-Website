@@ -34,7 +34,7 @@ with st.container():
     st.title('Data Science and Data Analytics enthusiast :computer:')
     st.title('About Me')
     st.write("""
-    College graduate from India with extensive knowledge in computer science, data science and currently
+    College graduate with extensive knowledge in computer science, data science and currently
     pursuing Master’s in Web and Data Science in Germany and doing an Internship job. Passionate about
     communication and seeking to leverage my interpersonal skills to provide a friendly, and fun atmosphere
     at the organization I work. I love challenges and challenging situations, for that is when my learning curve
